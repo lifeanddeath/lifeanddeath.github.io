@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ahmet EROGLU
+title: First Post ! :)
 ---
 
 My new official website has just been opened ! <br>
