@@ -12,6 +12,8 @@ permalink: /about/
 .tg .tg-ufe5{background-color:#34cdf9;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 </style>
+
+
 <table class="tg">
   <tr>
     <th class="tg-9hbo">Eğitim</th>
@@ -39,9 +41,7 @@ permalink: /about/
   </tr>
 </table>
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
