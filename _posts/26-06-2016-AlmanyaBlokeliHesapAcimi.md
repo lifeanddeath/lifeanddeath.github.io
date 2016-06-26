@@ -69,3 +69,27 @@ sizin  hesabınızın açılmamasına yada işlerinizin uzamamasına sebep olur 
 <img style="max-width: 100%;" align="center" hspace="20" src="/images/AlmanyaBlokeliHesapAcimi/6.png" alt="İlk Sayfa" height="auto">
 <img style="max-width: 100%;" align="center" hspace="20" src="/images/AlmanyaBlokeliHesapAcimi/7.png" alt="İlk Sayfa" height="auto">
 <img style="max-width: 100%;" align="center" hspace="20" src="/images/AlmanyaBlokeliHesapAcimi/8.png" alt="İlk Sayfa" height="auto">
+
+<p> Evet resimler yukarıdaki gibi doldurulmakta kafanızdaki soruları silmek içni ise numaralı alanları birde aşağıdaki gibi açıklayalım>
+
+<ol>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+<li>   </li>
+
+</ol>
