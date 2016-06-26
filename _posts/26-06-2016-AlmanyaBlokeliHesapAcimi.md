@@ -92,7 +92,6 @@ sizin  hesabınızın açılmamasına yada işlerinizin uzamamasına sebep olur 
 <li>   Daire No</li>
 <li> Posta Kodu  </li>
 <li> Semt/Şehir  </li>
-<li> Ülke  </li>
 <li> Almanyada vergi vermekle mükellefmisiniz diyor, ellemiyoruz  </li>
 <li>  Başka ülkede yasayıp , burada verige tabii olup olmadıgınızı soruyor boş bırakmamakta fayda var vergi vermseniz bile tc nonuzu girmeniz yeterli aşağıda </li>
 <li>  ellemiyoruz </li>
