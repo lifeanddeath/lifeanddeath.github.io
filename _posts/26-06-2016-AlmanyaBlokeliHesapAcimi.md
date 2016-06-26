@@ -73,10 +73,24 @@ sizin  hesabınızın açılmamasına yada işlerinizin uzamamasına sebep olur 
 <p> Evet resimler yukarıdaki gibi doldurulmakta kafanızdaki soruları silmek içni ise numaralı alanları birde aşağıdaki gibi açıklayalım>
 
 <ol>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
+<li>Müşteri Numaralarınızın ve banka bilgilerinin doldurulucağı alan ellemiyoruz boş kalmalı.   </li>
+<li> Cinsiyetiniz, kiz/bayan ilk sıkkı , baylar ise ikinci şıkkı seçmeli.  </li>
+<li> Ünvanınız , doktor mühendis olabilir öğrenci iseniz boş kalmasında zarar yoktur.  </li>
+<li> Adınız  </li>
+<li> Soyadınız  </li>
+<li>Evlenmeden önceki soyadınız, boş kalabilir   </li>
+<li> Doğum tarihi, gün ay yıl şeklinde girilmeli  </li>
+<li>  Doğum yeriniz,şehir olarak. </li>
+<li> Medeni haliniz. Single bekar, married evli.  </li>
+<li> diğer medeni hali durumları boş kalabilir.  </li>
+<li> vatandaşı oldugunuz ülke   </li>
+<li> Amerikan vatandaşımısınız diyor, no demenız yeterli  </li>
+<li>Amerikadamı dogdunuz diyor, no demeniz yeterli.   </li>
+<li> kesinlikle boş bırakmayın resmi işlemlerde kullanacağınız ve bilgilerinizin geleceği email adresiniz.  </li>
+<li>  ev adresiniz </li>
+<li>  Sokak no </li>
+<li>   Daire No</li>
+<li> Posta Kodu  </li>
 <li>   </li>
 <li>   </li>
 <li>   </li>
