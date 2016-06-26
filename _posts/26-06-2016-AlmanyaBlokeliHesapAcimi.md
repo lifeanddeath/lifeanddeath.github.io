@@ -107,11 +107,11 @@ sizin  hesabınızın açılmamasına yada işlerinizin uzamamasına sebep olur 
 <li> ellemiyoruz.  </li>
 <li> Online bankacılık isteyip istemediğimizi soruyor.evet diyebilirsiniz ben demiştim..  </li>
 <li>  Size kalmış evet denilelebilir güncellemelerden haberder olup olmak istemediğiniz soruluyor. </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
+<li> Tarihe, konsolosluga ımza attıracagınız günün  tarihini yazın. </li>
+<li>  Konsoloslugun bulundugu şehri ve semti yazın. </li>
+<li> İmza kısmı bos kalıyor konsoloslukta atacaksınız ıslak ımza olarak.  </li>
+<li>  Imza kısmı gene ellemiyoruz konsoloslukta atacagız. </li>
+<li>Ellemiyoruz..   </li>
 
 
 </ol>
