@@ -112,11 +112,9 @@ sizin  hesabınızın açılmamasına yada işlerinizin uzamamasına sebep olur 
 <li> İmza kısmı bos kalıyor konsoloslukta atacaksınız ıslak ımza olarak.  </li>
 <li>  Imza kısmı gene ellemiyoruz konsoloslukta atacagız. </li>
 <li>Ellemiyoruz..   </li>
-<li>  </li>
-<li>  </li>
-<li>  </li>
-<li>  </li>
-<li>  </li>
-
+<li> Gene tarih olarak imza atacagımız gün </li>
+<li> Konsolosluk semti-şehir gene </li>
+<li>imza ellemiyoruz  </li>
+<li>imza atıcaz geen komsoloslukta ellemiyoruz.  </li>
 
 </ol>
