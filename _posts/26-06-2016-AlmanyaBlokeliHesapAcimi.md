@@ -91,19 +91,27 @@ sizin  hesabınızın açılmamasına yada işlerinizin uzamamasına sebep olur 
 <li>  Sokak no </li>
 <li>   Daire No</li>
 <li> Posta Kodu  </li>
+<li> Semt/Şehir  </li>
+<li> Ülke  </li>
+<li> Almanyada vergi vermekle mükellefmisiniz diyor, ellemiyoruz  </li>
+<li>  Başka ülkede yasayıp , burada verige tabii olup olmadıgınızı soruyor boş bırakmamakta fayda var vergi vermseniz bile tc nonuzu girmeniz yeterli aşağıda </li>
+<li>  ellemiyoruz </li>
+<li> ellemiyoruz  </li>
+<li> ellemiyoruz  </li>
+<li> ellemiyoruz  </li>
+<li>  ellemiyoruz </li>
+<li>   Gideceginiz üniversiteninin adını yukarıya aşağıya ise hangi şehirde oldugunu yazıyoruz</li>
+<li>Hesabımıza yatıracağımız bloke olacak olan para miktarı, senelik 8040 euro 2016 itibari ile ancak 50 euroda hesap açım işlem ücreti alındığı için, yatıracagınız mıktara ek olarak 50euro daha yatırmalısınız.Örneğin bir senelik 8040 euro ve 50 euroda işlem ücreti 8090 euro olmaktadır.ben ise direk 8100 euro yatırdım.Boşluğu 8100 yapmanız yeterli   </li>
+<li>  Ellemiyoruz aksi belirtilmedikce, aylık cekebileceğiniz bloke miktardaki parayı söylüyor. 670 euro yani aylık. </li>
+<li> ellemiyoruz.  </li>
+<li> ellemiyoruz.  </li>
+<li> Online bankacılık isteyip istemediğimizi soruyor.evet diyebilirsiniz ben demiştim..  </li>
+<li>  Size kalmış evet denilelebilir güncellemelerden haberder olup olmak istemediğiniz soruluyor. </li>
 <li>   </li>
 <li>   </li>
 <li>   </li>
 <li>   </li>
 <li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
-<li>   </li>
+
 
 </ol>
