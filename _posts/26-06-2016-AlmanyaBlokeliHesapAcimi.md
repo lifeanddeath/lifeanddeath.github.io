@@ -58,7 +58,7 @@ sizin  hesabınızın açılmamasına yada işlerinizin uzamamasına sebep olur 
 
 <p> Ozaman formumuzu şöyle bir inceleyelim ve nereye ne yazmamız gerektiğini yazılarla belirtelim.. </p>
 
-<img style="max-width: 10%;" align="center" hspace="20" src="/images/AlmanyaBlokeliHesapAcimi/1.png" alt="İlk Sayfa" height="auto">
+<img style="max-width: 100%;" align="center" hspace="20" src="/images/AlmanyaBlokeliHesapAcimi/1.png" alt="İlk Sayfa" height="auto">
 <img style="max-width: 100%;" align="center" hspace="20" src="/images/AlmanyaBlokeliHesapAcimi/2.png" alt="İlk Sayfa" height="auto">
 <img style="max-width: 100%;" align="center" hspace="20" src="/images/AlmanyaBlokeliHesapAcimi/3.png" alt="İlk Sayfa" height="auto">
 <img style="max-width: 100%;" align="center" hspace="20" src="/images/AlmanyaBlokeliHesapAcimi/4.png" alt="İlk Sayfa" height="auto">
