@@ -112,6 +112,11 @@ sizin  hesabınızın açılmamasına yada işlerinizin uzamamasına sebep olur 
 <li> İmza kısmı bos kalıyor konsoloslukta atacaksınız ıslak ımza olarak.  </li>
 <li>  Imza kısmı gene ellemiyoruz konsoloslukta atacagız. </li>
 <li>Ellemiyoruz..   </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
 
 
 </ol>
