@@ -116,5 +116,31 @@ sizin  hesabınızın açılmamasına yada işlerinizin uzamamasına sebep olur 
 <li> Konsolosluk semti-şehir gene </li>
 <li>imza ellemiyoruz  </li>
 <li>imza atıcaz geen komsoloslukta ellemiyoruz.  </li>
-
 </ol>
+
+<p> Eveeet belgeleri doldurduk peki şimdi ne olacak?Bu belgeyi imzalatmak için konsolosluktan normalde randevu almak lazım ancak ben ise şimdi size yaşağıdım bireysel tecrübeyi anlatacağım bundan dolayı sizde aynısının geçerli olup olmayacağını bilemem.Öncelikle aslında olması gereken konsoloslugun sitesine girdigimizde, RANDEVU almalıyız ve belirtilen günde randevuya gitmeliyiz.Randevuyu almak için ise <br>
+<a href="https://service2.diplo.de/rktermin/extern/choose_realmList.do?locationCode=ista&request_locale=en"   target="_blank">Istanbul Alman Konsolosluğu Randevu Sistemi </a> linkine tıklamamız gerekiyor.Başka yerlerdeki alman konsoloslukları için ise gene online randevu sistemlerine ulaşmanız lazım ben Istanbulda gerçekleştirdiğim için burayı anlatıyorum.Siteye girdikten sonra alt taraftan continue dügmesine basıyoruz ve bir sonraki sayfada belge düzenleme ve tasdik işlemleri sayfasına gene continue butonu aracılıgı ıle gecıyoruz daha sonra belge duzenleme ve tasdik ıslemleri kısmından randevumuzu oluşturuyoruz ve randevumuzu almıs oluyoruz.Aldıgımız randevunun bılgıelrı ıse maılımıze gelıyor...
+</p>
+<br>
+
+<p>Ancak burda olay şu ki ben randevu almak istediğimde sistemde hiç randevu yoktu ve 1-2 ay sonrası bile dolu gozukuyordu bende gerilip hemen iletişim kısmında konsolosluga yuksek lisans yapacagıma ve blokeli hesap açmam gerektigine dair bir mail attim mailde ise randevu ıcın uygun bır yer olmadıgını randevu almadan gelır gelemeyecegımı sordum.1 gün sonrasında gelen cevapta ise cuma günleri 9-11.45 saatleri arası memnunıyetle benı alabıleceklerını ıceren bır maıl aldım, devamında ıse gelırken yanımda bu maılın cıktısını gostermem gerektıgı yazıyordu.Halbukı ertesı gun ben tekrar denedıgımde randevu sıstemı duzelmıstı ve yaklasık 3 hafta sonraya randevu almıstım :D ancak ben bunu hıc sesımı cıkartmayarak cuma gunu gıttım ve ısımı hallettım sonrada eskı randevuyu iptal ettim.
+</p>
+
+<p>Peki belgemizi doldurduk randevu ısını bı sekılde hallettık baska ne yapacagız?Randevu gunu ne oluyor?
+Oncelikle sunu bılmelısınızkı bu ıslemın ucretı 20euro tutuyor ve sizin bu parayı turk parası yada kredı kartı ıle odemenızın sansı yok ben bılmedıgım ıcın duz gitmiştim daha osnra ıse odeyemecegımı ogrendıgımde dısarı cıkıp dovız bozdurmak zorunda kaldım bundan doalyı ıslem gununden once yanınıza 20 euro temin ediniz:)) Randevu gununde ıse yanınızda olması gereken belgeler şunlardır.
+
+<ul>
+<li>Pasaportunuz  </li>
+<li>Bir a4 kagıdına pasaportunuz en dıs kırmızı kapaklarının resmi ve aynı kımlık bılgıelrının yer aldıgı sayfayı ıcerek kısım.Yanı a4 kagıdı uzerınde pasaportunuz dıs kapaklarının resmı ve kımlık bılgıelrınızıı ıceren ılk sayfalar yer alması yeterlı. Bır fotokopı yeterlı   </li>
+<li> Bir adet bu doldurdugunuz basvuru formu. Ikıncı kopyaya gerek yok cunku o sızde kalacak zaten ve onuda onaylatmak ıstesenız bır 20 euro daha ıstenıyor hıc gerek yok sız bu dolu ve ımzalı formu ve dıger belgelerı atın yeter. </li>
+<li>  Okuldan aldıgınız kabul belgesının fotokopısı,zorunlu değil. </li>
+</ul>
+Evet bu belgeleri temin ettikten sonra gişedeki görevli sizden formları alıp ımzalamanızı ıstıyor ve daha sonra kendıde konsoloslugun kaselerını basıyor formunuza ve pasaport fotokopınıze ve ustlerıne bırseyler imzalyarak hazır hale getırıyor..
+
+<br>
+Daha sonra ise konsolosluktan cıkınca hemen karsısında azıcık sagında olan DHL kargo ofisi ile 200 tl gibi bir rakama bir gün içerisinde  belgelrinizi gönderiyorsunuz.Unutmayın gonderecegınız adres her sne degısebılır en dogru adres basvuru formu uzerınde ılk ıkı sayfada yazan adreste bulunuyor.</p>
+
+<p>Umarım faydalı bır yazı olmustur.Başarılar dilerim. AHMET EROGLU  26.06.2016</p>
+
+
+
