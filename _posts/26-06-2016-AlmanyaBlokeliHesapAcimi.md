@@ -44,9 +44,12 @@ Kolay olması açısından yukarıya şöyle linki bırakayım.Linke giridğiniz
 Hemen azıcık aşağıda forms kısmını göreceksiniz.Eğer site almancaysa sağdan ingilizceye çevirebilirsiniz.Forms kısmına tıkladığınızda size üç adet
 seçenek sunuluyor.
  bunlar
-    -Openning a bank account/blocked account for foreign students =18
-    -Openining a bank account/blocked account for foreign students <=18
-    -Supplementary form
+    <ol>
+    <li> -Openning a bank account/blocked account for foreign students =18 </li>
+    <li>-Openining a bank account/blocked account for foreign students <=18</li>
+    <li>-Supplementary form</li>
+    
+    </ol>
     
 evet yukardaki seçeneklerden görüldüğü üzere 18yasından büyük olduğumuz için ilk formumuza tıklayarak ilgili formu indiriyoruz:)
 </p>
