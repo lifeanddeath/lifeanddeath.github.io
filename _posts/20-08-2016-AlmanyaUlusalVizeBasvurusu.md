@@ -58,6 +58,36 @@ basvuru formudur hepsını ayrı ayrı ırdeleyecegız..
 
 <p> Evet resimler yukarıdaki gibi doldurulmakta şimdi bunların üstünde tek tek duracağız ve ne olduğınu ve nasıl doldurulduğunu tartışacağız.
 
-<p> <b> 1. Almanca  Dilinde Eksiksiz Doldurulmuş  İki Adet Başvuru Formu
+<p> <b> 1. Almanca  Dilinde Eksiksiz Doldurulmuş  İki Adet Başvuru Formu </b>
+   Arkadaşlar bu form size başvuru ile gelen mailde verilen 3. pdf oluyor,5 sayfalık bir pdf oldugu için  hepsini buraya yükleyemeyeceğim ancak bu belge ile ilgili bilmeniz gereken durum, belgeyi tamamen almanca doldurmalısınız,yani google translateden yardım alın :D  ayrıca belge içerisindeki sayfalarda bazı bilgiler var muallakta olan sadece onları belirtecegim buraya boylede kalan basit yerleri siz doldurabilirsiniz.. Ornegin birinci sayfada seyahat belgesi numarası ve ikametgah belgesi numaraları ve gerçelilik tarihleri yazıyor buraları boş bırakıyorsunuz doldurmak zorunda degılsınız kalan kısımları doldurun.. birde son 2 sayfadaki bosluklara ımzalarınızı ver tarıh ve yerleri konsolosluktan vize basvurusu yapacagınız tarıhı vererek ımzalayın..
+
+
+<p>
+
+<p> <b>2. İkametgah Yasasının 55. maddesine göre gerekli ek belge </b>
+   Arkadaşlar boyle bir belge dıye ek bir şey yok aslında panik yapmayın, sizin 1. adımda doldrudgunuz basvuru formunu nson 2 sayfasındakı ımzaladıgınız yerler aslında bu belgeye refere edıyor ek birşey yapmanıza gerek yok, belge 1 doldurdugunzu takdirde bu adımı geçebilirsiniz.
+
+<p>
+
+<p> <b>3. Pasaport</b>
+  Arkadaşlar vizeniz pasaportunuza basılacagı ıcın pasaportunuzu yanınıza teslım edeceksınız onlara sonucta,bir de unutmadan burda yazmıyor ama basvuru esneasında gorevlı sızden 2 adet renkli pasaport fotokopsıını ıstıyor. Bunuda daha onceden temin edebilirisniz pasaport fotokopısı, aynı kagıt uzerınde pasaportun on ve arka kapagının gorulecegı skeılde ve alt kısmada kımlık bılgılerının oldugu sayfa gelecek sekılde olmalıdır.
+<p>
+
+<p> <b>4. 2 adet vesikalık fotograf</b>
+  Arkadaşlar bu oldukça açık bir adım ,2 adet vesikalıgı yanınızda bulundurmanız gerkemekte ancak burda dikkat etmek gereken nokta, sıze gleen maıldekı 20 no lu bılgı notundan resmın boyutlarını ogrenmenız. ve ona gore resım cektırmenız.
+<p>
+
+<p> <b>5. Motivasyon Yazısı </b>
+   Bu kısım alsında ben araştırırken bazı kısıler sadece easmusa gıdecekler yazsın yeter demısler, ıyıkı dınlememısım cunku gorevlı tum evrakları tek tek ıncelıyor ve motıvasyon yazınız okunuyor, otıvasyon yazısı olarak ıse ben yuksek lısans basvurusu yaptıgım okual kullandıgım sablonun ustunde oynayarak ıste almanyada basaırlı olcagımı belırten klasık bır yazı yazdım 1 sayfa olması kafidir, bir de size tavsıyem ıngılızce yazınız bunu sebebıne ılerde gelecegız...
+   
+<p>
+
+<p> <b>6. Eksiksiz ve Ayrıntılı Özgeçmiş</b>
+   Gene adı üstünde olduğu gibi ingilzice dilinde hazırlamanız tavsiyemdir, kapsamlı ve açıklayıcı olsun..
+  
+<p>
+
+
+
 
 
