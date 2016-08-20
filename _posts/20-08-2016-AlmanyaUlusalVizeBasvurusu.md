@@ -87,6 +87,60 @@ basvuru formudur hepsını ayrı ayrı ırdeleyecegız..
   
 <p>
 
+<p> <b>7. Ilk kez Universite Egıtımıne Baslayacaksanız</b>
+   Bu kısım aslında lisans eğitimine baslayacaklar için olduguna göre yüksek lisans ve erasmus düşünen arkadaşlar bu adımı dikkate almanıza gerek yok.
+   
+<p>
+
+<p> <b>8. Zaten Türkiyede Eğitime Devam ediyorsanız diyen kısım</b>
+   Bu kısım da aslında yüksek lisansa kabul aldığımız için okulu bıtırmsı durummdayız hal böyleyken bu kısma göre ibraz etmeniz gereken belgeler:  Ingılızce Transcrıpt,Gecici Mezunıyet Belgesi veya Transcriptir.
+   
+<p>
+
+<p> <b>9.  Almanyadaki ülkeye başvuru Yapıldığını gösterir belge</b>
+   Burdada okuldan bize gelmış olan kabul belgesini ekliyoruz..
+   
+<p>
+
+<p> <b>10.  Dil seviyesini belirticek olan Belge</b>
+   Ben ingilzice Programa kayıt oldugum için IELTS sonuc belgemi eklemem yeterli oldu..
+   
+<p>
+
+<p> <b>11. Tam Tekmil Vukuatlı Nüfüs Kayıt Ornegi</b>
+  Bu belgeyi gidip nüfüs müdürlüğünden gişelerdeki memurlardan tam tekmil vukuatlı nüfüs kayıt ornegı ıstıyorum dıyerek alıyorsunuz verirkende dusunceler ksımının doldurulması gerektiğini belirtin..
+   
+<p>
+
+<p> <b>12. SGK dan yurtdışı saglık sıgortası</b>
+   Arkadaşlar bu da birazcık karmasık ancak ben kendı yontemimi size nalatacagım benım babam özel bir şirketten emekli oldugu ıcın SGK baglantım yok dolayısıyla özel bir sigorta şirketine giderek, schengen ülekelerinde geçerli 30.000 euro teminatlı bir saglık sıgortası yaptırmak ıstedıgınızı soyluyorsunuz, size hangi tarihlerde gitmek istediginizi soruyor burda dikkat etmeniz gereken nokta, bu tarihi aslında yurtdısında cıkısınızı baslatacgaınız gune denk getırmenız gerekıyor sonunu ıse 2-3 hafta sonraya labılrısınzı cunku almanyaya gıdınce orda zaten almanyanın kendı salgık sıgortasını yaptrcagınız ıcın bu sızı ozamana kadar olan arada koruyacak bır sıgortadır.Bız 2-3 aylık yaptırdık fıyatı 190 tl gıbı bısey tuttu.nerde dıye sorarsanız ergo sıgorta.Burda dıkkat etmenız gereken bır baska husus ısı belgeyı duzenletırken, 1 ıngılıce 1 turkce nushasının sızı verılmesını ıstemnızdır.Sebebine sonra gelecegiz dedigim gibi...
+   
+<p>
+
+<p> <b>13.  Almanyada kendimizi nasıl finanse edeceğimizi gosteren belge</b>
+   Bunu zaten bir önceki blog yazımda uzun uzadıya anlatmıstım o ıslemlerı gerçekleşitirdiyseniz, size gelen hesabınızda para olduguna dair aitlik belgesinin eklemeniz yeterli...
+   
+<p>
+
+<br>
+<br>
+
+
+<p>Şimdiii..... bunca uzun belgelerden sonra arkadaşlar bir kaç püf noktamız daha var bunları soyledıkten sonra yazımızı tamamlıyoruz nihayet :d !  Oncelikle bana konsolosluk tarafından verılen bılgıye gore bu belgeleri ibraz ederken sizden bütün Türkçe belgelerin almanca tercümesi olması ıstenıyor.. Buda dmeektirki türkçe olan her belgeyi Yeminli bir alman mütercime gidip türkçeye cevirtmeliyiz, ancak noter onayına gerek yok onu da ben sordum..Peki elimiz de hangi belgelerimiz Türkçe suanda? Tam tekmil vukuatlı nüfüs kayıt ornegı,saglık sıgortası(bundan dolayı ıngızlıce nushasını alın dıorum) ve motıvasyon mektubu.. Bundan dolayı arkadaslar hazırladıgınzı belgelerın ıngılzıce olmasını saglarsanzı cevırıye gerek kalmayacaktır. birde diplomanız ve ya geçiçi mezunıyet belgeniz türkçe ise onuda yeminli bir alman mütercimden cevırtıyorsunuz, ayrıca transcrıptde buna dahl tabi ben İstanbul Universitesi mezunu oldugum için sıstemden ıngızlıce orjınal transcrıpt ısteyebıldım buna gerek kalmadı ondn doalyı motıvasyon yazısı vs gıbı cogu belgeyı ıngılzıce doldurmaya bakın..
+
+</p>
+
+<p> Gelelim 2. bir önemli hususa , arkadaslar bu hazırlıgınız belgelerin hiçbir zaman orjınallerini oraya vermeyeceksiniz..Siz oraya giderken formda gordugunuz uzere sizden asıllarını ve 2şer fotokopılerını ıbrat etmenizi istiyorlar bundna dolayı hazırladıgınız tum belgelerin 2şer fotokopılerını ayrıca almancaya cevrıttıgımız almanca belgelerınde 2ser oftokopılerını , resımlerımızı, ve pasaportumuzu dosyalayarak belge ıslemımızı bıtırmıs oluyoruz ve randevu tarıhını beklemeye koyuluyoruz, birde şunu belırteyım kı kolaylık olması acısından aynı sırada olmak uzere orjınal belgelerı bır jelatıne, fotokopılerıde orjınallerle aynı sırada olmak uzere 2. bır jelatıne koyarsanız gorevlı konsolosluga gtıtıgnız gun belgelerı duzenlerken vaktınızı almamıs olur hemdek olaylık cıkar, vakıt nakit sonuçta:)
+   
+<p>
+
+<p> Eveett, satırlarca yazdık ve yorulduk :D sizde okurken yoruldunuz ve geldik mutlu sona belgelerımız hazır randevu gunumuz geldi, garanti olsun dıye herseyı 3432423 kere kontrol ettık hatta randevu gununde randevu maılının cıktısınıda alarak heyecanla gıttık konsoloslugun oraya o da ne???? Kapıda 34323 tane surıyeli kardeşimiz kamp ateşi kurmus ve keyıflerıne bakıyorlar ve sizde omg omg deyip nasıl sıranın size gelecegını dusunuyorsunuz ancak merak etmeyın siz randevulu geldıgınızı kapıdakı gorevlıye belırtırsenız randevu vaktınde sızı cagıracaklar ve ıcerı alacaklar.. Daha sonra bırk ontrolden gectıkten sonra Istanbul konsoloslugunda ısenız bı odaya gıreceksınız , içeride hemen bir gorevlı var ve o gorelvıye gıdıp yükek lisans ıcın ulusal vize basvurusu yapmaya geldıgınızı belırtıyorsunuz, bayan ise size 10 metre ılerdekı ups burosundan zarf alıp gelmenızı dıyor, bu zarfı pasaportunuzu teslım ettıgınızde sıze ılerde kargoyla gerı gonderılmesı ıcın kullanacaklar ondan 20 tl gıbı bır fıyata zarfı alıp adresınızı verıyorsunuz ve sıze kargo posetı ve bır fıs verıyorlar bu fıs ıle ılerde upsnın sıtesını asındırıp kargonuzu soruglayacaksınız..Neyse.. Kargo posetımızı alıp gene o ılk masadakı ablaya yonelıyoruz ve durumu anlatıyoruz belgelrımızı teslım edıoyruz o onları sıraya koyuyor ve o arada sızde surıyelı gocmen kardeslerımızle sohbet edebılır yada ızleyebılırsınız takılın ıste sonucta hergun konsolosluga gelmıyorsunuz:D saga sola bakın :D azıcık kugul takılın:D neyse bayan sıze bır fıs verıyor ve gıseyı gecmenızı soyluyor sırada 343432 kısı oldugu halde o da ne sıra ılk sıze yanıyor neden? cunku sız gocmen degıl oraya bılım yapmaya gıten nıtelıklı elemansınız.Okadarda farkınız olsunn :)) sonra gıseye gırıp gorevlıyle tatlı bır sohbete baslıyorsunuz sıze bolumu okulu kalcak yerı aklınıza gelecek herseyı soruyor.. Hatta bendekı gorevlı bayan surıyelılerden oakdar sıkılmıs olmalıkı cv mı begendı heralde ıngılzıce konusabılırmıyız ubndan sonra dedı bende yeah why not dıyerek  bir  sir alex fergusson edasında uganda karısımlı isveç aksanımla basladım konusmaya neyse gorusmemız bıtınce gorelı bayan bana vızemın verılmemısı ıcın hıcbır sorun olmadıgını ancak yaklasık 2-4 hafta arası beklemem gerektıgını soyledı.Sonuc olarak tam 30 gun sonra bana bir mail geldi ve kargoyla pasaportumun gonderılemeyecegını vızemın ahzır oldugunu cunku gelıp bır ımza atmma gerektıgını soyledıler, ben gene tıpıs tıpıs verdıklerı randevu gunu gıderek gene tatlı bır bekleyısten sonra vızemı aldım ve ucak bıletımıde alarak suan bazal metobolızmama gerı cekıldım ve bekleyısteyım...
+
+Umarım yazım faydalı olmustur ve yardımcı olmusumdur.. 
+Egıtıme gıden yolunuzda herseke basarılar diliyorum..
+   
+<p>
+
 
 
 
