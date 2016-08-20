@@ -58,16 +58,6 @@ basvuru formudur hepsını ayrı ayrı ırdeleyecegız..
 
 <p> Evet resimler yukarıdaki gibi doldurulmakta şimdi bunların üstünde tek tek duracağız ve ne olduğınu ve nasıl doldurulduğunu tartışacağız.
 
-<ol>
-<li>Müşteri Numaralarınızın ve banka bilgilerinin doldurulucağı alan ellemiyoruz boş kalmalı.   </li>
-<li> Cinsiyetiniz, kiz/bayan ilk sıkkı , baylar ise ikinci şıkkı seçmeli.  </li>
-<li> Ünvanınız , doktor mühendis olabilir öğrenci iseniz boş kalmasında zarar yoktur.  </li>
-<li> Adınız  </li>
-<li> Soyadınız  </li>
-<li>Evlenmeden önceki soyadınız, boş kalabilir   </li>
-<li> Doğum tarihi, gün ay yıl şeklinde girilmeli  </li>
-
-</ol>
-</p>
+<p> <b> 1. Almanca  Dilinde Eksiksiz Doldurulmuş  İki Adet Başvuru Formu
 
 
