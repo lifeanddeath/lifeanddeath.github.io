@@ -13,33 +13,15 @@ permalink: /about/
 .tg .tg-yw4l{vertical-align:top}
 </style>
 
+<pre>
+<b>Education
+<br>
 
-<table class="tg">
-  <tr>
-    <th class="tg-9hbo">Eğitim</th>
-    <th class="tg-9hbo">Tarih</th>
-    <th class="tg-9hbo">Üniversite</th>
-    <th class="tg-9hbo">Bölüm</th>
-  </tr>
-  <tr>
-    <td class="tg-ufe5">Bachelors-Exchange term</td>
-    <td class="tg-ufe5">2014-2015</td>
-    <td class="tg-ufe5">Halmstad University</td>
-    <td class="tg-ufe5">Electrical and Computer Engineering</td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Bachelors</td>
-    <td class="tg-yw4l">2012-2016</td>
-    <td class="tg-yw4l">Istanbul University</td>
-    <td class="tg-yw4l">Computer Engineering</td>
-  </tr>
-  <tr>
-    <td class="tg-ufe5">Masters </td>
-    <td class="tg-ufe5">2016-Cont.</td>
-    <td class="tg-ufe5">Universitat Konstanz</td>
-    <td class="tg-ufe5">Computer and Information Sciences</td>
-  </tr>
-</table>
+<b>Bachelors Degree:</b>   Istanbul University     Computer Engineering 2016
+<br>
+<b>Masters Degree:</b>     Universität Konstanz    Computer Science     still
+<br>
+
 
 
 
