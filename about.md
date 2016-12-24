@@ -21,7 +21,7 @@ permalink: /about/
 <b>Masters Degree:</b>     Universität Konstanz    Computer Science        still
 <br>
 
-
+</pre>
 
 
 ### Contact me
