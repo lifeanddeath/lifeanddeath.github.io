@@ -14,7 +14,7 @@ permalink: /about/
 </style>
 
 <pre>
-<b>Education
+<b>Education </b>
 <br>
 
 <b>Bachelors Degree:</b>   Istanbul University     Computer Engineering 2016
