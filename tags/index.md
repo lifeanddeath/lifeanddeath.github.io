@@ -15,7 +15,7 @@ description: "Etiketlerine göre sınıflandırılmış gönderiler."
   <ul class="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <li><a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} ({{ site.tags[this_word].size }})</a><br></li>
+    <li><a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} ({{ site.tags[this_word].size }})<br></a><br></li>
   {% endunless %}{% endfor %}
   </ul>
 
