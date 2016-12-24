@@ -18,7 +18,7 @@ permalink: /about/
 <br>
 <b>Bachelors Degree:</b>   Istanbul University     Computer Engineering    2016
 <br>
-<b>Masters Degree:</b>     Universität Konstanz    Computer Science        stilla
+<b>Masters Degree:</b>     Universität Konstanz    Computer Science        still
 <br>
 
 </pre>
