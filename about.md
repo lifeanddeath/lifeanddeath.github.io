@@ -14,12 +14,11 @@ permalink: /about/
 </style>
 
 <pre>
-<b>Education </b>
+                                   <b>Education </b>
 <br>
-
-<b>Bachelors Degree:</b>   Istanbul University     Computer Engineering 2016
+<b>Bachelors Degree:</b>   Istanbul University     Computer Engineering    2016
 <br>
-<b>Masters Degree:</b>     Universität Konstanz    Computer Science     still
+<b>Masters Degree:</b>     Universität Konstanz    Computer Science        still
 <br>
 
 
