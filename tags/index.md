@@ -23,7 +23,7 @@ description: "Etiketlerine göre sınıflandırılmış gönderiler."
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
   <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
   {% for post in site.tags[this_word] %}{% if post.title != null %}
-  <a href="{{ post.url }}">{{ post.title }}</a>
+  <a href="{{ post.url }}">{{ post.title }}</a><br>
   {% endif %}{% endfor %} 
   <br/><br/>
   <br/>
