@@ -27,7 +27,9 @@ permalink: /about/
 <td>Computer Engineering</td>
 <td>2012/2016</td>
 </tr>
+<br>
 <tr>
+<br>
 <td>Bachelors Exchange</td>
 <td>Halmstad University(Sweden)</td>
 <td>Computer and Electronical Engineering</td>
@@ -36,6 +38,7 @@ permalink: /about/
 </td>
 </tr>
 <tr>
+<br>
 <td>Master of Science</td>
 <td>Konstanz University(Germany)</td>
 <td>Computer and Information Science</td>
