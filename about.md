@@ -30,7 +30,7 @@ permalink: /about/
 <tr>
 <td>Bachelors Exchange</td>
 <td>Halmstad University(Sweden)</td>
-<td>Computer&amp; Electronical Engineering</td>
+<td>Computer and Electronical Engineering</td>
 <td>
 <p>2014/2015</p>
 </td>
@@ -38,7 +38,7 @@ permalink: /about/
 <tr>
 <td>Master of Science</td>
 <td>Konstanz University(Germany)</td>
-<td>Computer &amp; Information Science</td>
+<td>Computer and Information Science</td>
 <td>2016/cont.</td>
 </tr>
 </tbody>
