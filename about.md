@@ -26,6 +26,7 @@ permalink: /about/
 <td>Istanbul University(TURKEY)</td>
 <td>Computer Engineering</td>
 <td>2012/2016</td>
+<br>
 </tr>
 <br>
 <tr>
