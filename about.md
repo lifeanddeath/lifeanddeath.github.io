@@ -23,7 +23,7 @@ permalink: /about/
 </tr>
 <tr>
 <td>Bachelors</td>
-<td>&nbsp;Istanbul University(TURKEY)</td>
+<td>Istanbul University(TURKEY)</td>
 <td>Computer Engineering</td>
 <td>2012/2016</td>
 </tr>
