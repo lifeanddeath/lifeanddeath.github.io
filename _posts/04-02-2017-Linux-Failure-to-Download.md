@@ -29,6 +29,6 @@ sudo apt-get install ubuntu-restricted-extras
 
 use these two lines of codes respectively and you are ready to go ! <p>
 
-<p>Sincerely sa, 04.02.2017</p>
+<p>Sincerely sas, 04.02.2017</p>
 
 
