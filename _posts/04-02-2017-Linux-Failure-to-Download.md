@@ -5,11 +5,8 @@ category: General
 tags: [general]
 ---
 <p>Hi <br>
-Using Linux for a while , one of the errors I often come across with is downloading problem for certain add-ons.
+Using Linux for a time ,in its very essence one of the errors I often come across with is downloading problem for certain add-ons.
 </p>
-
-<br>
-
 <p> If you get the following error: <br>
 Failure to download extra data files
 
@@ -24,11 +21,10 @@ without sharing with any 3rd party or individual.Therefore, there is a probable 
 
 <p>To fix it: <br>
 
-sudo apt-get remove --purge ttf-mscorefonts-installer
-sudo apt-get install ubuntu-restricted-extras
+<h1><br /><span style="background-color: #00ff00;">sudo apt-get remove --purge ttf-mscorefonts-installer<br />sudo apt-get install ubuntu-restricted-extras</span><br /></h1>
 
 use these two lines of codes respectively and you are ready to go ! <p>
 
-<p>Sincerely sas, 04.02.2017</p>
+<p>Sincerely,Ahmet</p>
 
 
