@@ -12,7 +12,8 @@ Using Linux for a time ,in its very essence one of the errors I often come acros
 <b>
 Failure to download extra data files
 
-The following packages requested additional data downloads after package installation, but the data could not be downloaded or could not be processed.
+The following packages requested additional data downloads after package installation,
+but the data could not be downloaded or could not be processed.
 
 ttf-mscorefonts-installer
 
