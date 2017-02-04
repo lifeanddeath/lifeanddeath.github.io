@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<h2>&nbsp; &nbsp;<span style="color: #993366;">Education</span>&nbsp;</h2>
-<p>&nbsp;</p>
+<h2>&nbsp; &nbsp;<span style="color: #993366;">Education</span></h2>
 <table style="height: 187px;" width="674">
 <tbody>
 <tr>
@@ -49,7 +48,5 @@ permalink: /about/
 </table>
 <p>&nbsp;</p>
 <h2><span style="color: #993366;">&nbsp; Research Interests</span></h2>
-<pre > GNU/LINUX . Distibuted Systems . Android Programming . Firesebase . Javascript
-
-<p>&nbsp;</p>
+<pre > GNU/LINUX . Distibuted Systems . Android Programming . Firebase . Javascript</pre>
 <h1><span style="color: #993366;">Contact Info:<br /><span style="background-color: #00ff00;">aeroglu2016@gmail.com<a href="mailto:ahmet.eroglu@uni-konstanz.de"><br />ahmet.eroglu@uni-konstanz.de</a></span><br /></span></h1>
