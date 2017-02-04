@@ -8,6 +8,7 @@ tags: [general]
 Using Linux for a time ,in its very essence one of the errors I often come across with is downloading problem for certain add-ons.
 </p>
 <p> If you get the following error: <br>
+<pre>
 <b>
 Failure to download extra data files
 
@@ -15,7 +16,7 @@ The following packages requested additional data downloads after package install
 
 ttf-mscorefonts-installer
 
-The download will be attempted again later, or you can try the download again now. Running this command requires an active Internet connection. </b> <p>
+The download will be attempted again later, or you can try the download again now. Running this command requires an active Internet connection. </b> </pre><p>
 
 <p>So this certain  packet  actually stands for Microsoft's font files freely avaible from the Microsoft for you to use and download
 without sharing with any 3rd party or individual.Therefore, there is a probable connection problem that you must have had when you attempted to download it.</p>
@@ -24,7 +25,7 @@ without sharing with any 3rd party or individual.Therefore, there is a probable 
 <pre><b>sudo apt-get remove --purge ttf-mscorefonts-installer
 sudo apt-get install ubuntu-restricted-extras</b>
      </pre>
-use these two lines of codes respectively and you are ready to go ! <p>
+use these two lines of commands respectively and you are ready to go ! <p>
 
 <p>Sincerely,Ahmet</p>
 
