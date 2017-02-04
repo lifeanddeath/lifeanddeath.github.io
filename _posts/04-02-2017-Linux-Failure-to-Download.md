@@ -17,7 +17,8 @@ but the data could not be downloaded or could not be processed.
 
 ttf-mscorefonts-installer
 
-The download will be attempted again later, or you can try the download again now. Running this command requires an active Internet connection. </b> </pre><p>
+The download will be attempted again later, or you can try the download again now.
+ Running this command requires an active Internet connection. </b> </pre><p>
 
 <p>So this certain  packet  actually stands for Microsoft's font files freely avaible from the Microsoft for you to use and download
 without sharing with any 3rd party or individual.Therefore, there is a probable connection problem that you must have had when you attempted to download it.</p>
