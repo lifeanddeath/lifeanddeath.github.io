@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 <table style="height: 120px;" width="620">
 <tbody>
 <th> <h2>&nbsp; &nbsp;<span style="color: #993366;">Education</span></h2></th>
