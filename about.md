@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-<h2>&nbsp; &nbsp;<span style="color: #993366;">Education</span></h2>
 <table style="height: 187px;" width="674">
 <tbody>
+<th> <h2>&nbsp; &nbsp;<span style="color: #993366;">Education</span></h2></th>
 <tr>
 <td>
 <h3><span style="color: #993366;"><span style="color: #993366;">Degree</span></span></h3>
