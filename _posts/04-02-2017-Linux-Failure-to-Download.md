@@ -1,15 +1,8 @@
-
-
-
-
-
-
-
 ---
 layout: post
 title: How to Fix "Linux Failure to Download extra data files for ttf-mscorefonts-installer" error
-category: Programming
-tags: [programming]
+category: General
+tags: [general]
 ---
 <p>Hi <br>
 Using Linux for a while , one of the errors I often come across with is downloading problem for certain add-ons.
