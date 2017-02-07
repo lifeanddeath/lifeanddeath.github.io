@@ -51,3 +51,5 @@ permalink: /about/
 <h2><span style="color: #993366;">&nbsp; Research Interests</span></h2>
 <pre > GNU/LINUX . Distibuted Systems . Android Programming . Firebase . Javascript</pre>
 <h1><span style="color: #993366;">Contact Info:<br /><span style="background-color: #00ff00;">aeroglu2016@gmail.com<a href="mailto:ahmet.eroglu@uni-konstanz.de"><br />ahmet.eroglu@uni-konstanz.de</a></span><br /></span></h1>
+
+<img style="max-width: 30%;" align="right" hspace="20" src="/images/profil.jpg" alt="Ahmet EROGLU" height="%30">
