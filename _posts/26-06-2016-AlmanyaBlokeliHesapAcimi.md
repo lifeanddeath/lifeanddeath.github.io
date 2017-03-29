@@ -139,7 +139,7 @@ Evet bu belgeleri temin ettikten sonra gişedeki görevli sizden formları alıp
 <br>
 Daha sonra ise konsolosluktan cıkınca hemen karsısında azıcık sagında olan DHL kargo ofisi ile 200 tl gibi bir rakama bir gün içerisinde  belgelrinizi gönderiyorsunuz.Unutmayın gonderecegınız adres her sne degısebılır en dogru adres basvuru formu uzerınde ılk ıkı sayfada yazan adreste bulunuyor.</p>
 
-<p>Umarım faydalı bır yazı olmustur.Başarılar dilerim. AHMET EROGLU  26.06.2016</p>
+<p>Umarım faydalı bır yazı olmustur.Başarılar dilerim. AHMET EROGLU  26.06.2016.</p>
 
 
 
