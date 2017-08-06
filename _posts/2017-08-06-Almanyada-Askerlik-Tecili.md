@@ -6,6 +6,6 @@ tags: [general]
 ---
 
 <p> Coming soon:) </p>
-<p>Sincerely,Ahmet</p>
+
 
 
