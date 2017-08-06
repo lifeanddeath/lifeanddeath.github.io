@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<table width="856" height="154" cellspacing="0" cellpadding="1" border="1" style="">
+<table width="856" height="154" cellspacing="0" cellpadding="1" border="1">
     <tbody>
         <tr>
             <td style="text-align: center;" colspan="3"><strong>Education</strong></td>
