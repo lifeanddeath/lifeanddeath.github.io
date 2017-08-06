@@ -55,32 +55,27 @@ permalink: /about/
         </tr>
         <tr>
             <td style="text-align: left;"><strong>English :<br>
-            </strong></td>         
-            <td style="text-align: left;">Full professional proficiency</td>
+            </strong>Full professional proficiency</td>         
+         
         </tr>
         
         <tr>
            <td style="text-align: left;"><strong>German :<br>
-           </strong></td>         
-           <td style="text-align: left;">Limited working proficiency</td>
+           </strong>Limited working proficiency</td>         
+         
         </tr>
         
          <tr>
            <td style="text-align: left;"><strong>Swedish :<br>
-           </strong></td>         
-           <td style="text-align: left;">Elementary proficiency</td>
+           </strong>Elementary proficiency</td>         
+      
         </tr>
         
          <tr>
            <td style="text-align: left;"><strong>Turkish :<br>
-           </strong></td>         
-           <td style="text-align: left;">Native proficiency</td>
+           </strong>Native proficiency</td>         
         </tr>
-        
-        
-      
-       
-      
+    
         <tr>
             <td style="text-align: left;">&nbsp;</td>
             <td style="text-align: left;">&nbsp;</td>
