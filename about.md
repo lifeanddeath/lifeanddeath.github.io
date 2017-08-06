@@ -43,7 +43,7 @@ permalink: /about/
 </table>
 
 
-<table width="856" height="154" cellspacing="0" cellpadding="1" border="0">
+<table width="750" height="154" cellspacing="0" cellpadding="1" border="0">
     <tbody>
         <tr>
             <td style="text-align: center;" colspan="3"><strong>Languages</strong></td>
@@ -85,15 +85,6 @@ permalink: /about/
 </table>
 
 
-
-
-
-
-
-
-<p>&nbsp;</p>
-<h2><span style="color: #993366;">&nbsp; Languages:</span></h2>
-<pre > English (Excellent) German ( Intermediate)  Swedish( Pre Intermediate) </pre>
 <h2><span style="color: #993366;">&nbsp; Research Interests</span></h2>
 <pre > GNU/LINUX . Distributed Systems . Android Programming . Firebase . Javascript</pre>
 <img style="max-width: 25%; max-height:25%;" align="right" hspace="20" src="/images/profile3.jpg" alt="Ahmet EROGLU" width="500px" height="300px">
