@@ -3,50 +3,45 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<table style="height: 120px;" width="620">
-<tbody>
-<th> <h2>&nbsp; &nbsp;<span style="color: #993366;">Education</span></h2></th>
-<tr>
-<td>
-<h3><span style="color: #993366;"><span style="color: #993366;">Degree</span></span></h3>
-</td>
-<td>
-<h3><span style="color: #993366;">University</span></h3>
-</td>
-<td>
-<h3><span style="color: #993366;">Field of Study</span></h3>
-</td>
-<td>
-<h3><span style="color: #993366;">Year</span></h3>
-</td>
-</tr>
-<tr>
-<td>Bachelors</td>
-<td>Istanbul University(TURKEY)</td>
-<td>Computer Engineering</td>
-<td>2012/2016</td>
-<br>
-</tr>
-<br>
-<tr>
-<br>
-<td>Bachelors Exchange</td>
-<td>Halmstad University(Sweden)</td>
-<td>Computer and Electronical Engineering</td>
-<td>
-<p>2014/2015</p>
-</td>
-</tr>
-<tr>
-<br>
-<td>Master of Science</td>
-<td>Konstanz University(Germany)</td>
-<td>Computer and Information Science</td>
-<td>2016/cont.</td>
-</tr>
-</tbody>
+<table width="856" height="154" cellspacing="0" cellpadding="1" border="0" style="">
+    <tbody>
+        <tr>
+            <td style="text-align: center;" colspan="3"><strong>Education</strong></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><strong>B.Sc. :<br>
+            </strong></td>
+            <td style="text-align: left;">Istanbul University,TURKEY</td>
+            <td style="text-align: left;">Computer Engineering</td>
+            <td style="text-align: left;">2012-2016</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><strong>B.Sc. Exchange:</strong></td>
+            <td style="text-align: left;">Halmstad University,Sweden</td>
+             <td style="text-align: left;">Computer and Electrical Engineering</td>
+            <td style="text-align: left;">2014-2015</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><strong>M.Sc. :</strong></td>
+            <td style="text-align: left;">Universität Konstanz,Germany</td>
+             <td style="text-align: left;">Computer and Information Science</td>
+            <td style="text-align: left;">2016 - ongoing</td>
+        </tr>
+      
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+    </tbody>
 </table>
+
+
 <p>&nbsp;</p>
 <h2><span style="color: #993366;">&nbsp; Languages:</span></h2>
 <pre > English (Excellent) German ( Intermediate)  Swedish( Pre Intermediate) </pre>
