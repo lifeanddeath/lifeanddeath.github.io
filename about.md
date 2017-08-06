@@ -23,13 +23,13 @@ permalink: /about/
         </tr>
         <tr>
             <td style="text-align: left;"><strong>B.Sc. Exchange:</strong></td>
-            <td style="text-align: left;">Halmstad University,Sweden</td>
+            <td style="text-align: left;">Halmstad University,Sweden<img style="max-width: 100%;" align="center" src="/images/if_se_4744.png"  height="auto"></td>
              <td style="text-align: left;">Computer and Electrical Engineering</td>
             <td style="text-align: left;">2014-2015</td>
         </tr>
         <tr>
             <td style="text-align: left;"><strong>M.Sc. :</strong></td>
-            <td style="text-align: left;">Universität Konstanz,Germany</td>
+            <td style="text-align: left;">Universität Konstanz,Germany<img style="max-width: 100%;" align="center" src="/images/if_de_4604.png"  height="auto"></td>
              <td style="text-align: left;">Computer and Information Science</td>
             <td style="text-align: left;">2016 - ongoing</td>
         </tr>
