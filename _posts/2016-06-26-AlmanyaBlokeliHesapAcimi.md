@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Almanyada Blokeli Hesap(Sperrkonto) Nasıl Açılır?
-category: General
+category: Almanya Belge Islemleri
 tags: [general]
 ---
 <p>
