@@ -1,13 +1,11 @@
-
 ---
 layout: post
-title: Almanyada askerlik tecili nasil edilir ? ( Master ve Doktora Öğrencileri)
+title: Almanyada askerlik tecil islemleri (Master ve Doktora Ogrencileri)
 category: Almanya Belge Islemleri
 tags: [general]
 ---
 
-<p> coming soon :) </p>
-
-
+<p> Coming soon:) </p>
+<p>Sincerely,Ahmet</p>
 
 
