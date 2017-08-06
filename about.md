@@ -17,7 +17,7 @@ permalink: /about/
         <tr>
             <td style="text-align: left;"><strong>B.Sc. :<br>
             </strong></td>
-            <td style="text-align: left;">Istanbul University,TURKEY</td>
+            <td style="text-align: left;">Istanbul University,TURKEY<img style="max-width: 100%;" align="center" src="/images/if_tr_4770.png"  height="auto"></td>
             <td style="text-align: left;">Computer Engineering</td>
             <td style="text-align: left;">2012-2016</td>
         </tr>
