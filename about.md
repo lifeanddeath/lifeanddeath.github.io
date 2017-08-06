@@ -43,6 +43,59 @@ permalink: /about/
 </table>
 
 
+<table width="856" height="154" cellspacing="0" cellpadding="1" border="0">
+    <tbody>
+        <tr>
+            <td style="text-align: center;" colspan="3"><strong>Languages</strong></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><strong>English :<br>
+            </strong></td>         
+            <td style="text-align: left;">Full professional proficiency</td>
+        </tr>
+        
+        <tr>
+           <td style="text-align: left;"><strong>German :<br>
+           </strong></td>         
+           <td style="text-align: left;">Limited working proficiency</td>
+        </tr>
+        
+         <tr>
+           <td style="text-align: left;"><strong>Swedish :<br>
+           </strong></td>         
+           <td style="text-align: left;">Elementary proficiency</td>
+        </tr>
+        
+         <tr>
+           <td style="text-align: left;"><strong>Turkish :<br>
+           </strong></td>         
+           <td style="text-align: left;">Native proficiency</td>
+        </tr>
+        
+        
+      
+       
+      
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
 <p>&nbsp;</p>
 <h2><span style="color: #993366;">&nbsp; Languages:</span></h2>
 <pre > English (Excellent) German ( Intermediate)  Swedish( Pre Intermediate) </pre>
