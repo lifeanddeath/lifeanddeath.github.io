@@ -3,6 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style>
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
+
+</style>
 <table width="856" height="154" cellspacing="0" cellpadding="1" border="1">
     <tbody>
         <tr>
