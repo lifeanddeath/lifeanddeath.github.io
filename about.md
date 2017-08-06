@@ -43,7 +43,7 @@ permalink: /about/
 </table>
 
 
-<table width="856" height="154" cellspacing="0" cellpadding="0" border="0">
+<table width="856" height="154" cellspacing="0" cellpadding="1" border="0">
     <tbody>
         <tr>
             <td style="text-align: center;" colspan="3"><strong>Languages</strong></td>
