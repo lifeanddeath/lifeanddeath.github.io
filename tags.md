@@ -1,30 +1,28 @@
 ---
 layout: page
-title: Category
-share: false
-comment: false
-description: "Etiketlerine göre sınıflandırılmış gönderiler."
+title: Categories
 ---
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-<!-- site_tags: {{ site_tags }} -->
-{% assign tag_words = site_tags | split:',' | sort %}
-<!-- tag_words: {{ tag_words }} -->
 
-<div id="tags">
-  <ul class="tags">
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <li><a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} ({{ site.tags[this_word].size }})</a></li>
-  {% endunless %}{% endfor %}
-  </ul>
-
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-  <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
-  {% for post in site.tags[this_word] %}{% if post.title != null %}
-  <a href="{{ post.url }}">{{ post.title }}</a>
-  {% endif %}{% endfor %} 
-  <br/><br/>
-  <br/>
-  {% endunless %}{% endfor %}
+<div class="tags-expo">
+  <div class="tags-expo-list">
+    {% for tag in site.categories %}
+    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    {% endfor %}
+  </div>
+  <hr/>
+  <div class="tags-expo-section">
+    {% for tag in site.categories %}
+    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <ul class="tags-expo-posts">
+      {% for post in tag[1] %}
+        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+      <li>
+        {{ post.title }}
+      <small class="post-date">{{ post.date | date_to_string }}</small>
+      </li>
+      </a>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </div>
 </div>
