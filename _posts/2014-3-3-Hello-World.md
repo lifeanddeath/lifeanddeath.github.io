@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Post ! :)
-category: General
+category: Ilk Post
 tags: [general]
 ---
 
