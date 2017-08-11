@@ -19,7 +19,7 @@ tags: [general]
            <li>Suanda egıtımını aldıgımız okuldan gelen kabul belgesı aslı ve fotokopısı</li>
            <li>Suana kadar tamamladıgımız semesterleri gosteren ogrenci belgelerinden birer ornek(her semester icin)</li>
            <li>3 adet vesikalık resim</li>
-           <li>Ozel ogrencı basvuru formu</li>
+           <li>Ozel ogrencı basvuru formu(Ateseligin sitesinden temin edilmeli)</li>
             <li>Suanki askerlik durumunuzu gosteren belge(Eger belgenin olusturulma tarihi 6 aydan eskiyse orda e devlet sifreniz aracılıgıyla yenısnı cıkartabılıyorsunuz hemen vezneden.</li>
          </ul>
      </b>
