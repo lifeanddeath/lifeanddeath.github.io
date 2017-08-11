@@ -33,8 +33,7 @@ permalink: /about/
              <td style="text-align: left;">Computer and Information Science</td>
             <td style="text-align: left;">2016 - ongoing</td>
         </tr>
-      
-        <tr>
+       <tr>
             <td style="text-align: left;">&nbsp;</td>
             <td style="text-align: left;">&nbsp;</td>
             <td style="text-align: left;">&nbsp;</td>
@@ -55,34 +54,28 @@ permalink: /about/
         </tr>
         <tr>
             <td style="text-align: left;"><strong>English :
-            </strong>Full professional proficiency</td>         
-         
+            </strong>Full professional proficiency</td>              
         </tr>
-        
         <tr>
            <td style="text-align: left;"><strong>German :
            </strong>Limited working proficiency</td>         
-         
-        </tr>
-        
+            </tr>
          <tr>
            <td style="text-align: left;"><strong>Swedish :
            </strong>Elementary proficiency</td>         
-      
-        </tr>
-        
+         </tr>
          <tr>
            <td style="text-align: left;"><strong>Turkish :
            </strong>Native proficiency</td>         
         </tr>
-    
-        <tr>
+      <tr>
             <td style="text-align: left;">&nbsp;</td>
             <td style="text-align: left;">&nbsp;</td>
             <td style="text-align: left;">&nbsp;</td>
         </tr>
     </tbody>
 </table>
+
 
 
 <h2><span style="color: #993366;">&nbsp; Research Interests</span></h2>
