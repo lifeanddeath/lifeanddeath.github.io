@@ -37,7 +37,7 @@ tags: [general]
 <p style="text-align:justify"> Bu belgeyide bu sekilde doldurduktan sonra randevu gununuzde gerekli belgelri yaniniza alıp, ogrenci dosyanızı actırmaya gidebilirisniz. Bundan sonra da egitim donemınız boyunca her donem yeni ogrenci belgesinin mail yolu ile ulastırabılecegı soylendı bana. </p>
 
 
-<p style="text-align:justify"> <b>NOT: Burdaki yazanların hepsi Karlsruhe egitim ateseliginde gerceklestirildi ondan dolayı baska egıtım ateselıklerınde surec tam olarak nasıl ıslıyor bılmıyorum.En dogru bılgıyı ateselıgınızle ıletısıme gecerek alınız. </p>
+<p style="text-align:justify"> <b>NOT: Burdaki yazanların hepsi Karlsruhe egitim ateseliginde gerceklestirildi ondan dolayı baska egıtım ateselıklerınde surec tam olarak nasıl ıslıyor bılmıyorum.En dogru bılgıyı ateselıgınızle ıletısıme gecerek alınız. </b> </p>
   
   
   <p style="text-align:justify"> Basarılar dilerim, Ahmet</p>
