@@ -3,25 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<table width="750" height="154" cellspacing="0" cellpadding="1" border="0">
-    <tbody>
-        <tr>
-            <td style="text-align: center;" colspan="3"><strong>Work Experience</strong></td>
-        </tr>
-        <tr>
-            <td style="text-align: left;">&nbsp;</td>
-            <td style="text-align: left;">&nbsp;</td>
-            <td style="text-align: left;">&nbsp;</td>
-        </tr>
-        <tr>
-            <td style="text-align: left;"><strong>Research Assistant</td>
-             <td style="text-align: left;">Software and Model Checking</td>
-             <td style="text-align: left;"><strong>Sept. 2016 - ongoing</td>    
-        </tr>
-     </tbody>
-</table>
-
-
 <table width="856" height="154" cellspacing="0" cellpadding="1" border="0">
     <tbody>
         <tr>
