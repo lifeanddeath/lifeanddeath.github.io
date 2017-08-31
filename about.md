@@ -18,10 +18,7 @@ permalink: /about/
              <td style="text-align: left;">Software and Model Checking</td>
              <td style="text-align: left;"><strong>Sept. 2016 - ongoing</td>    
         </tr>
-      <tr>
-            <td style="text-align: left;">&nbsp;</td>
-      </tr>
-    </tbody>
+     </tbody>
 </table>
 
 
