@@ -14,14 +14,13 @@ permalink: /about/
             <td style="text-align: left;">&nbsp;</td>
         </tr>
         <tr>
-            <td style="text-align: left;"><strong>Research Assistant :
-            </strong>Software and Model Checking development</td>
-            <td style="text-align: left;"><strong>Sept. 2016 - ongoing</td>    
+            <td style="text-align: left;"><strong>Research Assistant</td>
+             <td style="text-align: left;">Software and Model Checking</td>
+             <td style="text-align: left;"><strong>Sept. 2016 - ongoing</td>    
         </tr>
       <tr>
             <td style="text-align: left;">&nbsp;</td>
-            <td style="text-align: left;">&nbsp;</td>
-            <td style="text-align: left;">&nbsp;</td>
+        
         </tr>
     </tbody>
 </table>
