@@ -3,6 +3,34 @@ layout: page
 title: About
 permalink: /about/
 ---
+ 
+<table width="750" height="154" cellspacing="0" cellpadding="1" border="0">
+    <tbody>
+        <tr>
+            <td style="text-align: center;" colspan="3"><strong>Work Experience</strong></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><strong>Research Assistant :
+            </strong> Universität Konstanz(Sept. 2017 / ongoing )</td>              
+        </tr>
+      <tr>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
 <table width="856" height="154" cellspacing="0" cellpadding="1" border="0">
     <tbody>
         <tr>
