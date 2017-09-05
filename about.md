@@ -16,7 +16,7 @@ permalink: /about/
         </tr>
         <tr>
             <td style="text-align: left;"><strong>Research Assistant :
-            </strong> Universität Konstanz - Software and Model Checking (Sept. 2017 / ongoing )</td>              
+            </strong> Universität Konstanz-Software and Model Checking (Sept.2017 / ongoing)</td>              
         </tr>
       <tr>
             <td style="text-align: left;">&nbsp;</td>
