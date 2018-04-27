@@ -16,7 +16,11 @@ permalink: /about/
         </tr>
         <tr>
             <td style="text-align: left;"><strong>Research Assistant :
-            </strong> Universität Konstanz-Software and Model Checking (Sept.2017 / ongoing)</td>              
+            </strong> Universität Konstanz-Software and Model Checking (Sept.2017 / February 2018)</td>              
+        </tr>
+           <tr>
+            <td style="text-align: left;"><strong>Android Developer :
+            </strong> Formigas GmBH (May 2018 / ongoing  )</td>              
         </tr>
       <tr>
            <td style="text-align: left;">&nbsp;</td>
