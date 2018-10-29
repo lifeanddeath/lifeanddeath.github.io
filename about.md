@@ -112,7 +112,7 @@ permalink: /about/
 <img style="max-width: 25%; max-height:25%;" align="right" hspace="20" src="/images/profile3.jpg" alt="Ahmet EROGLU" width="500px" height="300px">
 <h1><span style="color: #993366;">Contact Info:<br /><span style="background-color: #00ff00;">aeroglu2016@gmail.com<a href="mailto:ahmet.eroglu@uni-konstanz.de"><br />ahmet.eroglu@uni-konstanz.de</a></span><br /></span></h1>
 <h1><span style="color: #993366;">About Me:<br/>
-<h4> Hi, I'm a vivid and voracious android developer working and living in Germany. Currently I'm pursuing a master degree in computer science with a specialization in Distributed Systems here at The University of Konstanz,Germany. Also, I'm the lead developer of lockum, a location based javascript encryption library, project upon which my master thesis and project based. Any information system should be built from the ground up with confidentiality in mind.
+<h4> Hi, I'm a vivid and voracious android developer working and living in Germany. Currently I'm pursuing a master degree in computer science with a specialization in Distributed Systems here at The University of Konstanz,Germany. Also, I'm the lead developer of lockum, a location based javascript encryption library, project upon which my master thesis and project based. The main idea behind the project is that how we could restrict the information to certain geographical area. Using user's location we can successfully encrypt and decrypt the messages given latitude and longitude values. Also, a user could introduce a value called tolerance distance to increase decrytable message range.
 
 
 
