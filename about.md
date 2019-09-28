@@ -28,7 +28,7 @@ permalink: /about/
         </tr>
       <tr>
            <td style="text-align: left;">&nbsp;</td>
-        </tr>
+      </tr>
     </tbody>
 </table>
 
