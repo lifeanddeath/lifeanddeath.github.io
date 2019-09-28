@@ -14,13 +14,17 @@ permalink: /about/
             <td style="text-align: left;">&nbsp;</td>
             <td style="text-align: left;">&nbsp;</td>
         </tr>
+         <tr>
+            <td style="text-align: left;"><strong>Software Engineer :
+            </strong> Ricoh Deutschland GmbH (October 2019 / current  )</td>              
+        </tr>
+         <tr>
+            <td style="text-align: left;"><strong>Android Developer :
+            </strong> Formigas GmBH (May 2018 / March 2019  )</td>              
+        </tr>
         <tr>
             <td style="text-align: left;"><strong>Research Assistant :
             </strong> Universität Konstanz-Software and Model Checking (Sept.2017 / February 2018)</td>              
-        </tr>
-           <tr>
-            <td style="text-align: left;"><strong>Android Developer :
-            </strong> Formigas GmBH (May 2018 / ongoing  )</td>              
         </tr>
       <tr>
            <td style="text-align: left;">&nbsp;</td>
@@ -60,7 +64,7 @@ permalink: /about/
             <td style="text-align: left;"><strong>M.Sc. :</strong></td>
             <td style="text-align: left;">Universität Konstanz,Germany<img style="max-width: 100%;" align="center" src="/images/if_de_4604.png"  height="auto"></td>
              <td style="text-align: left;">Computer and Information Science</td>
-            <td style="text-align: left;">2016 - ongoing</td>
+            <td style="text-align: left;">2016 - 2019</td>
         </tr>
        <tr>
             <td style="text-align: left;">&nbsp;</td>
@@ -112,7 +116,7 @@ permalink: /about/
 <img style="max-width: 25%; max-height:25%;" align="right" hspace="20" src="/images/profile3.jpg" alt="Ahmet EROGLU" width="500px" height="300px">
 <h1><span style="color: #993366;">Contact Info:<br /><span style="background-color: #00ff00;">ahmeteroglu@protonmail.com</span>
 <h1><span style="color: #993366;">About Me:<br/>
-<h4> Hi, I'm a vivid and voracious android developer working and living in Germany. Currently I'm pursuing a master degree in computer science with a specialization in Distributed Systems here at The University of Konstanz,Germany. Also, I'm the lead developer of lockum, a location based javascript encryption library, project upon which my master thesis and project based. The main idea behind the project is that how we could restrict the information to certain geographical area. Using user's location we can successfully encrypt and decrypt the messages given latitude and longitude values. Also, a user could introduce a value called tolerance distance to increase decrytable message range.
+<h4> I'm a software engineer with 1.5 years professional working experience. I hold a M.Sc. in Computer Science from Universität Konstanz. My research interests are mainly distributed systems, data privacy and data security. My master thesis was about designing and evaluating a new location-based encryption protocol. Also, I worked & took part in various projects with international people. I'm very interested in mobile app development and currently working as a software engineer at Ricoh Deutschland GmbH.
 
 
 
