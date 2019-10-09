@@ -16,7 +16,7 @@ permalink: /about/
         </tr>
          <tr>
             <td style="text-align: left;"><strong>Software Engineer :
-            </strong> Ricoh Deutschland GmbH (October 2019 / current  )</td>              
+            </strong> Ricoh International B.V (October 2019 / current  )</td>              
         </tr>
          <tr>
             <td style="text-align: left;"><strong>Android Developer :
