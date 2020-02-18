@@ -116,7 +116,7 @@ permalink: /about/
 <img style="max-width: 25%; max-height:25%;" align="right" hspace="20" src="/images/profile3.jpg" alt="Ahmet EROGLU" width="500px" height="300px">
 <h1><span style="color: #993366;">Contact Info:<br /><span style="background-color: #00ff00;">ahmeteroglu@protonmail.com</span>
 <h1><span style="color: #993366;">About Me:<br/>
-<h4> I'm a software engineer with 1.5 years professional working experience. I hold a M.Sc. in Computer Science from Universität Konstanz. My research interests are mainly distributed systems, data privacy and data security. My master thesis was about designing and evaluating a new location-based encryption protocol. Also, I worked & took part in various projects with international people. I'm very interested in mobile app development and currently working as a software engineer at Ricoh International B.V.
+<h4> I'm an Oracle Certified Java developer with 1.5+ years work experience and hold a Master’s Degree  in Computer Science from the Universität Konstanz, Germany. My current role as a software engineer at Ricoh International B.V entails developing SLNX software customizations based on Java. My main research  interests include  data security and data privacy.  I designed and implemented a new location-based encryption protocol for my master’s thesis. Taking a part in numerous projects with international people is part of my daily activities and have very strong communication skills. 
 
 
 
